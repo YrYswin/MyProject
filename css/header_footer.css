@@ -1,0 +1,99 @@
+@import url('https://fonts.googleapis.com/css2?family=Nova+Square&family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+
+:root {
+    --primary-color: rgb(42, 187, 42);
+    --secondary-color: greenyellow;
+    --orange-color: rgba(255, 200, 0, 0.852);
+}
+
+* {
+    padding: 0;
+    margin: 0;
+}
+
+body {
+    background-color: rgb(210, 187, 159);
+}
+.wrapper {
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh;
+    margin: 0;
+}
+
+header {
+    background-color: var(--primary-color);
+}
+header .up {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    max-width: 1400px;
+    margin: 0 auto;
+}
+.logo img {
+    width: 260px;
+}
+header .up .page {
+    font-family: 'Poppins';
+    font-size: 22px;
+    display: flex;
+    justify-content: space-between;
+    text-align: center;
+    gap: 30px;
+}
+header .up .page p {
+    width: 120px;
+    cursor: pointer;
+}
+header .up .page p:hover {
+    color: var(--orange-color);
+}
+
+.active {
+    border-bottom: 4px solid red;
+    box-shadow: inset 0px -11px 8px -8px #dcf603;
+}
+
+.search {
+    display: flex;
+    align-items: center;
+}
+.search input {
+    height: 30px;
+    border: none;
+    background-color: transparent;
+    border-bottom: black 3px solid;
+}
+.search input::placeholder {
+    color: black;
+}
+.search input:focus {
+    outline: none;
+}
+.search svg {
+    width: 26px;
+    cursor: pointer;
+}
+.search svg path:hover {
+    fill: red;
+}
+
+.main {
+    flex: 1;
+}
+
+footer {
+    background-color: var(--primary-color);
+}
+footer .network {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    max-width: 1400px;
+    margin: 0 auto;
+}
+
+.network .social img {
+    width: 50px;
+}
