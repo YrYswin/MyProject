@@ -1,0 +1,146 @@
+[
+    {
+        "id": 1,
+        "name": "Rose",
+        "category": "flower",
+        "price": 6.99,
+        "overview": "Rouse its beautiful flowers",
+        "reiting": 4.5,
+        "image": "img/imgProducts/roseProduct.png"
+    },
+    {
+        "id": 1,
+        "name": "Sunflower",
+        "category": "flower",
+        "price": 5.76,
+        "overview": "Rouse its beautiful flowers",
+        "reiting": 3.9,
+        "image": "img/imgProducts/sunflower.jpg"
+    },
+    {
+        "id": 1,
+        "name": "Tyulpane",
+        "category": "flower",
+        "price": 6.32,
+        "overview": "Rouse its beautiful flowers",
+        "reiting": 4.3,
+        "image": "img/imgProducts/tyulpany.jpg"
+    },
+    {
+        "id": 1,
+        "name": "White lily",
+        "category": "flower",
+        "price": 7.89,
+        "overview": "Rouse its beautiful flowers",
+        "reiting": 4.9,
+        "image": "img/imgProducts/white_lily.jpg"
+    },
+    {
+        "id": 1,
+        "name": "Dandelions",
+        "category": "flower",
+        "price": 2.79,
+        "overview": "Rouse its beautiful flowers",
+        "reiting": 4.8,
+        "image": "img/imgProducts/dandelions.jpg"
+    },
+    {
+        "id": 1,
+        "name": "Chamomile",
+        "category": "flower",
+        "price": 4.49,
+        "overview": "Rouse its beautiful flowers",
+        "reiting": 4.3,
+        "image": "img/imgProducts/chamomile.jpg"
+    },
+    {
+        "id": 1,
+        "name": "Rose",
+        "category": "flower",
+        "price": 6.99,
+        "overview": "Rouse its beautiful flowers",
+        "reiting": 4.5,
+        "image": "img/imgProducts/roseProduct.png"
+    },
+    {
+        "id": 1,
+        "name": "Rose",
+        "category": "flower",
+        "price": 6.99,
+        "overview": "Rouse its beautiful flowers",
+        "reiting": 4.5,
+        "image": "img/imgProducts/roseProduct.png"
+    },
+    {
+        "id": 1,
+        "name": "Rose",
+        "category": "flower",
+        "price": 6.99,
+        "overview": "Rouse its beautiful flowers",
+        "reiting": 4.5,
+        "image": "img/imgProducts/roseProduct.png"
+    },
+    {
+        "id": 1,
+        "name": "Rose",
+        "category": "flower",
+        "price": 6.99,
+        "overview": "Rouse its beautiful flowers",
+        "reiting": 4.5,
+        "image": "img/imgProducts/roseProduct.png"
+    },
+    {
+        "id": 1,
+        "name": "Rose",
+        "category": "flower",
+        "price": 6.99,
+        "overview": "Rouse its beautiful flowers",
+        "reiting": 4.5,
+        "image": "img/imgProducts/roseProduct.png"
+    },
+    {
+        "id": 1,
+        "name": "Rose",
+        "category": "flower",
+        "price": 6.99,
+        "overview": "Rouse its beautiful flowers",
+        "reiting": 4.5,
+        "image": "img/imgProducts/roseProduct.png"
+    },
+    {
+        "id": 1,
+        "name": "Rose",
+        "category": "flower",
+        "price": 6.99,
+        "overview": "Rouse its beautiful flowers",
+        "reiting": 4.5,
+        "image": "img/imgProducts/roseProduct.png"
+    },
+    {
+        "id": 1,
+        "name": "Rose",
+        "category": "flower",
+        "price": 6.99,
+        "overview": "Rouse its beautiful flowers",
+        "reiting": 4.5,
+        "image": "img/imgProducts/roseProduct.png"
+    },
+    {
+        "id": 1,
+        "name": "Rose",
+        "category": "flower",
+        "price": 6.99,
+        "overview": "Rouse its beautiful flowers",
+        "reiting": 4.5,
+        "image": "img/imgProducts/roseProduct.png"
+    },
+    {
+        "id": 1,
+        "name": "Rose",
+        "category": "flower",
+        "price": 6.99,
+        "overview": "Rouse its beautiful flowers",
+        "reiting": 4.5,
+        "image": "img/imgProducts/roseProduct.png"
+    }
+]

@@ -11,9 +11,15 @@
     margin: 0;
 }
 
-body {
-    background-color: rgb(210, 187, 159);
+a {
+    text-decoration: none;
+    color: black;
 }
+
+body {
+    background-color: rgb(225, 214, 214);
+}
+
 .wrapper {
     display: flex;
     flex-direction: column;
@@ -21,31 +27,36 @@ body {
     margin: 0;
 }
 
-header {
+.header {
     background-color: var(--primary-color);
 }
-header .up {
+
+.header .up {
     display: flex;
     justify-content: space-between;
     align-items: center;
     max-width: 1400px;
     margin: 0 auto;
 }
+
 .logo img {
     width: 260px;
 }
-header .up .page {
+
+.header .up .page {
     font-family: 'Poppins';
-    font-size: 22px;
+    font-size: 18px;
     display: flex;
     justify-content: space-between;
     text-align: center;
     gap: 30px;
 }
+
 header .up .page p {
-    width: 120px;
+    width: 125px;
     cursor: pointer;
 }
+
 header .up .page p:hover {
     color: var(--orange-color);
 }
@@ -59,22 +70,27 @@ header .up .page p:hover {
     display: flex;
     align-items: center;
 }
+
 .search input {
     height: 30px;
     border: none;
     background-color: transparent;
     border-bottom: black 3px solid;
 }
+
 .search input::placeholder {
     color: black;
 }
+
 .search input:focus {
     outline: none;
 }
+
 .search svg {
     width: 26px;
     cursor: pointer;
 }
+
 .search svg path:hover {
     fill: red;
 }
@@ -85,7 +101,9 @@ header .up .page p:hover {
 
 footer {
     background-color: var(--primary-color);
+    margin-top: 34px;
 }
+
 footer .network {
     display: flex;
     justify-content: space-between;
