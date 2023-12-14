@@ -9,7 +9,7 @@
         "image": "img/imgProducts/roseProduct.png"
     },
     {
-        "id": 1,
+        "id": 2,
         "name": "Sunflower",
         "category": "flower",
         "price": 5.76,
@@ -18,7 +18,7 @@
         "image": "img/imgProducts/sunflower.jpg"
     },
     {
-        "id": 1,
+        "id": 3,
         "name": "Tyulpane",
         "category": "flower",
         "price": 6.32,
@@ -27,7 +27,7 @@
         "image": "img/imgProducts/tyulpany.jpg"
     },
     {
-        "id": 1,
+        "id": 4,
         "name": "White lily",
         "category": "flower",
         "price": 7.89,
@@ -36,7 +36,7 @@
         "image": "img/imgProducts/white_lily.jpg"
     },
     {
-        "id": 1,
+        "id": 5,
         "name": "Dandelions",
         "category": "flower",
         "price": 2.79,
@@ -45,7 +45,7 @@
         "image": "img/imgProducts/dandelions.jpg"
     },
     {
-        "id": 1,
+        "id": 6,
         "name": "Chamomile",
         "category": "flower",
         "price": 4.49,
@@ -54,7 +54,7 @@
         "image": "img/imgProducts/chamomile.jpg"
     },
     {
-        "id": 1,
+        "id": 7,
         "name": "Rose",
         "category": "flower",
         "price": 6.99,
@@ -63,7 +63,7 @@
         "image": "img/imgProducts/roseProduct.png"
     },
     {
-        "id": 1,
+        "id": 8,
         "name": "Rose",
         "category": "flower",
         "price": 6.99,
@@ -72,7 +72,7 @@
         "image": "img/imgProducts/roseProduct.png"
     },
     {
-        "id": 1,
+        "id": 9,
         "name": "Rose",
         "category": "flower",
         "price": 6.99,
@@ -81,7 +81,7 @@
         "image": "img/imgProducts/roseProduct.png"
     },
     {
-        "id": 1,
+        "id": 10,
         "name": "Rose",
         "category": "flower",
         "price": 6.99,
@@ -90,7 +90,7 @@
         "image": "img/imgProducts/roseProduct.png"
     },
     {
-        "id": 1,
+        "id": 11,
         "name": "Rose",
         "category": "flower",
         "price": 6.99,
@@ -99,7 +99,7 @@
         "image": "img/imgProducts/roseProduct.png"
     },
     {
-        "id": 1,
+        "id": 12,
         "name": "Rose",
         "category": "flower",
         "price": 6.99,
@@ -108,7 +108,7 @@
         "image": "img/imgProducts/roseProduct.png"
     },
     {
-        "id": 1,
+        "id": 13,
         "name": "Rose",
         "category": "flower",
         "price": 6.99,
@@ -117,7 +117,7 @@
         "image": "img/imgProducts/roseProduct.png"
     },
     {
-        "id": 1,
+        "id": 14,
         "name": "Rose",
         "category": "flower",
         "price": 6.99,
@@ -126,7 +126,7 @@
         "image": "img/imgProducts/roseProduct.png"
     },
     {
-        "id": 1,
+        "id": 15,
         "name": "Rose",
         "category": "flower",
         "price": 6.99,
@@ -135,7 +135,7 @@
         "image": "img/imgProducts/roseProduct.png"
     },
     {
-        "id": 1,
+        "id": 16,
         "name": "Rose",
         "category": "flower",
         "price": 6.99,
