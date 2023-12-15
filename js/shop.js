@@ -66,6 +66,7 @@ const addToCart = (product_id) => {
     addCartToMemory();
 }
 
+// Сохранение данных после выхода
 const addCartToMemory = () => {
     localStorage.setItem('cart', JSON.stringify(carts));
 }
@@ -103,6 +104,7 @@ const addCartToHTML = () => {
     iconCartSpan.innerText = totalQuantity;
 }
 
+// Увеличение и уменьшение количества товаров в корзине
 listCartHTML.addEventListener('click', (event) => {
     let positionClick = event.target;
     if (positionClick.classList.contains('minus') || positionClick.classList.contains('plus')) {

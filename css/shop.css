@@ -145,6 +145,7 @@ body.showCart .container {
     gap: 10px;
     text-align: center;
     align-items: center;
+    margin-left: 4px;
 }
 
 .listCart .quantity span {
